@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeTestApp</string>
+
+    <string name="error_text">Currently no data available. Please try later.</string>
+</resources>
